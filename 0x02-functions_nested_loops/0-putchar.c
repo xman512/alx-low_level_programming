@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
  * main - print -putchar
  * is written by boda
- * return : 0
+ * Return: (0) Always success
  */
 
 int main(void)
