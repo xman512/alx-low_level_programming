@@ -1,10 +1,11 @@
 #include "main_h"
 
 /**
- * print_chessboard - print chessboard.
+ * print_chessboard - print a chessboard.
+ * @a: source matrix
  *
- * 8a : rows.
- * Return: nothing.
+ *
+ * Return: chessboard.
  */
 void print_chessboard(char (*a)[8]);
 {
