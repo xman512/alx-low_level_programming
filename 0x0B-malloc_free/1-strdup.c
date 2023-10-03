@@ -49,4 +49,4 @@ char *_strdup(char *str)
 		x++;
 	}
 	return (ptr);
-}}
+}
